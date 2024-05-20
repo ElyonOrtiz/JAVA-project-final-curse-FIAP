@@ -1,0 +1,10 @@
+<datasources>
+    <datasource name="ElyonDB1">
+        <properties>
+            <property name="url" value="jdbc:mysql://localhost:3306/ElyonDB1"/>
+            <property name="username" value="elyon"/>
+            <property name="password" value="08062002"/>
+            <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        </properties>
+    </datasource>
+</datasources>
